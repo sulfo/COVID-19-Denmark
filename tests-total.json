@@ -1,0 +1,78 @@
+[
+  {
+    "date": "2020-03-06",
+    "positive_tests": 28,
+    "tested_persons": 809,
+    "note": "Testing period between 2020-01-27 and 2020-03-06"
+  },
+  {
+    "date": "2020-03-07",
+    "positive_tests": 9,
+    "tested_persons": 103
+  },
+  {
+    "date": "2020-03-08",
+    "positive_tests": 48,
+    "tested_persons": 224
+  },
+  {
+    "date": "2020-03-09",
+    "positive_tests": 210,
+    "tested_persons": 570
+  },
+  {
+    "date": "2020-03-10",
+    "positive_tests": 256,
+    "tested_persons": 795
+  },
+  {
+    "date": "2020-03-11",
+    "positive_tests": 207,
+    "tested_persons": 870
+  },
+  {
+    "date": "2020-03-12",
+    "positive_tests": 44,
+    "tested_persons": 661
+  },
+  {
+    "date": "2020-03-13",
+    "positive_tests": 33,
+    "tested_persons": 689
+  },
+  {
+    "date": "2020-03-14",
+    "positive_tests": 37,
+    "tested_persons": 572
+  },
+  {
+    "date": "2020-03-15",
+    "positive_tests": 45,
+    "tested_persons": 697
+  },
+  {
+    "date": "2020-03-16",
+    "positive_tests": 74,
+    "tested_persons": 977
+  },
+  {
+    "date": "2020-03-17",
+    "positive_tests": 76,
+    "tested_persons": 905
+  },
+  {
+    "date": "2020-03-18",
+    "positive_tests": 83,
+    "tested_persons": 1158
+  },
+  {
+    "date": "2020-03-19",
+    "positive_tests": 107,
+    "tested_persons": 1776
+  },
+  {
+    "date": "2020-03-20",
+    "positive_tests": 69,
+    "tested_persons": 851
+  }
+]
