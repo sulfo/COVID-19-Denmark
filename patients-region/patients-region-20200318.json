@@ -1,0 +1,29 @@
+[
+  {
+    "region": "Hovedstaden",
+    "total_hospitalised_patients": 64,
+    "hospitalised_patients_icu": 10,
+    "positive_tests": 473,
+    "population": 1846023
+  },
+  {
+    "region": "Sjælland",
+    "total_hospitalised_patients": 27,
+    "hospitalised_patients_icu": 7
+  },
+  {
+    "region": "Syddanmark",
+    "total_hospitalised_patients": 12,
+    "hospitalised_patients_icu": 2
+  },
+  {
+    "region": "Midtjylland",
+    "total_hospitalised_patients": 16,
+    "hospitalised_patients_icu": 4
+  },
+  {
+    "region": "Nordjylland",
+    "total_hospitalised_patients": 10,
+    "hospitalised_patients_icu": 1
+  }
+]

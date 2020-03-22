@@ -1,2 +1,7 @@
-# COVID-19-Denmark
-Data about COVID-19 in Denmark (WIP)
+# COVID-19 Denmark
+
+## Work in progress!
+
+Data about COVID-19 in Denmark. 
+
+Source: SSI
