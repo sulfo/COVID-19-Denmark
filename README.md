@@ -12,5 +12,5 @@ Name | Description | Format | Example
 --- | --- | --- | --- |
 region | Name of the Region | string | Hovedstaden
 total_hospitalised_patients | Total hospitalised patients | int | 143
-hospitalised_patients_icu | Intensive Care Unit (ICU) | int | 40
-hospitalised_patients_icu_on_ventilator | Patients on ventilator (null if no data is given by SSI) | int | 37
+critical | Critical patients on intensive care unit (ICU) | int | 40
+critical_on_ventilator | Critical patients (ICU) on medical ventilator | int | 37

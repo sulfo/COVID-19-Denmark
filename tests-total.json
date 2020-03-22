@@ -78,6 +78,7 @@
   {
     "date": "2020-03-21",
     "positive_tests": 35,
-    "tested_persons": 435
+    "tested_persons": 435,
+    "deaths": 13
   }
 ]

@@ -2,31 +2,31 @@
   {
     "region": "Hovedstaden",
     "total_hospitalised_patients": 64,
-    "hospitalised_patients_icu": 10,
-    "hospitalised_patients_icu_on_ventilator": null
+    "critical": 10,
+    "critical_on_ventilator": null
   },
   {
     "region": "Sjælland",
     "total_hospitalised_patients": 27,
-    "hospitalised_patients_icu": 7,
-    "hospitalised_patients_icu_on_ventilator": null
+    "critical": 7,
+    "critical_on_ventilator": null
   },
   {
     "region": "Syddanmark",
     "total_hospitalised_patients": 12,
-    "hospitalised_patients_icu": 2,
-    "hospitalised_patients_icu_on_ventilator": null
+    "critical": 2,
+    "critical_on_ventilator": null
   },
   {
     "region": "Midtjylland",
     "total_hospitalised_patients": 16,
-    "hospitalised_patients_icu": 4,
-    "hospitalised_patients_icu_on_ventilator": null
+    "critical": 4,
+    "critical_on_ventilator": null
   },
   {
     "region": "Nordjylland",
     "total_hospitalised_patients": 10,
-    "hospitalised_patients_icu": 1,
-    "hospitalised_patients_icu_on_ventilator": null
+    "critical": 1,
+    "critical_on_ventilator": null
   }
 ]
