@@ -25,8 +25,8 @@
   },
   {
     "region": "Nordjylland",
-    "total_hospitalised_patients": 104,
-    "hospitalised_patients_icu": 17,
-    "hospitalised_patients_icu_on_ventilator": 14
+    "total_hospitalised_patients": 15,
+    "hospitalised_patients_icu": 3,
+    "hospitalised_patients_icu_on_ventilator": 1
   }
 ]
