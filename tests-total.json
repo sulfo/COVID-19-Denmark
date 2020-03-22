@@ -72,7 +72,12 @@
   },
   {
     "date": "2020-03-20",
-    "positive_tests": 69,
-    "tested_persons": 851
+    "positive_tests": 103,
+    "tested_persons": 1102
+  },
+  {
+    "date": "2020-03-21",
+    "positive_tests": 35,
+    "tested_persons": 435
   }
 ]
