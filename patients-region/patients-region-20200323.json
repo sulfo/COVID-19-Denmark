@@ -1,0 +1,32 @@
+[
+  {
+    "region": "Hovedstaden",
+    "total_hospitalised_patients": 131,
+    "critical": 29,
+    "critical_on_ventilator": 23
+  },
+  {
+    "region": "Sjælland",
+    "total_hospitalised_patients": 49,
+    "critical": 10,
+    "critical_on_ventilator": 10
+  },
+  {
+    "region": "Syddanmark",
+    "total_hospitalised_patients": 29,
+    "critical": 6,
+    "critical_on_ventilator": 6
+  },
+  {
+    "region": "Midtjylland",
+    "total_hospitalised_patients": 28,
+    "critical": 6,
+    "critical_on_ventilator": 6
+  },
+  {
+    "region": "Nordjylland",
+    "total_hospitalised_patients": 17,
+    "critical": 4,
+    "critical_on_ventilator": 2
+  }
+]
